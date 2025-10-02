@@ -1,39 +1,60 @@
-# The Newborn’s First Cry as Epistemic Claim and Foundation of Psychological Development
+# KMED-I (Infancy) — Cry–Response Dyad Simulator
 
-### Attachment, Autonomy, and Resilience
+![A stylised illustration of a mother holding her smiling infant, rendered in warm orange tones. The image symbolises the newborn’s cry and caregiver recognition as the foundational exchange of epistemic life, where comfort and care scaffold resilience and autonomy.](https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator/blob/main/mum_baby.jpg?raw=true)
 
-by Peter Kahl, 2 October 2025
+This repository contains the official Python implementation of KMED-I (Infancy) — a simulation framework modelling the infant–caregiver cry–response dyad.
 
-![A stylised illustration of a mother holding her smiling infant, rendered in warm orange tones. The image symbolises the newborn’s cry and caregiver recognition as the foundational exchange of epistemic life, where comfort and care scaffold resilience and autonomy.](https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development/blob/main/mum_baby.jpg?raw=true)
+KMED-I formalises the newborn’s cry as the first epistemic event, extending the _Kahl Model of Epistemic Dissonance_ (KMED) into developmental psychology. It models how caregiver policies—fiduciary, inconsistent, neglectful, or silencing—shape trajectories of:
 
-## Abstract
+- **Epistemic Autonomy (EA)** – persistence in signalling contradiction
+- **Dissonance Tolerance (DT)** – capacity to withstand contradiction
+- **Dependence (D)** – reliance on suppression versus recognition
 
-This paper develops a developmental–epistemic account of the newborn’s first cry as the earliest epistemic claim and the foundation of psychological development. Rather than a reflex, crying is framed as an epistemic event: the embodied registration of contradiction, helplessness, and finitude at the threshold of life. The caregiver’s response constitutes the first fiduciary scaffold. Recognition and comfort transform dissonance into resilience, while neglect, silencing, or inconsistency rehearse the logic of epistemic clientelism. To formalise these dynamics, the _Kahl Model of Epistemic Dissonance_ (KMED) is extended into an infant–caregiver setting and implemented in Python-based simulations. The models show how distinct caregiving policies—fiduciary, inconsistent, neglectful, or silencing—generate divergent developmental trajectories of epistemic autonomy, dissonance tolerance, and dependence. These findings establish infancy as the crucible of epistemic life, reframing attachment as epistemic trust and psychological development as contingent upon the dignification of contradiction. The argument has implications for developmental psychology, attachment theory, psychiatry, and clinical practice.
+The framework provides a computational tool for exploring epistemic clientelism, resilience, and trust, bridging intimate caregiving contexts with broader institutional and social applications.
 
-## Keywords
+## Documentation & Usage
 
-cognitive dissonance, newborn crying, infancy, epistemic event, psychological development, fiduciary scaffolding, epistemic clientelism, attachment theory, developmental psychology, resilience, recognition, silencing, autonomy, dependence, epistemic trust, dissonance tolerance, KMED, computational modelling, psychiatry, clinical psychology
+The script reproduces the simulations documented in the paper:
+[**_The newborn’s first cry as epistemic claim and foundation of psychological development: Attachment, autonomy, and resilience_**](https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development) (Lex et Ratio Ltd, London, 2025).
 
-## KMED-I (Infancy) — Cry–Response Dyad Simulator Resources
+## Requirements
 
-KMED-I simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator .
+- Python 3.9+
+- `numpy`
+- `matplotlib`
 
-## Working Paper Status
+Install dependencies via:
 
-This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
+```bash
+# install dependencies
+pip install -r requirements.txt
+# or
+pip install numpy matplotlib
+```
 
-## Download
+## Installation
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development/master/Kahl_P_Newborn_Crying_as_the_First_Epistemic_Claim_2025-10-02.pdf)
+Clone the repository:
 
-## Cite this work
+```bash
+git clone https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator.git
+cd KMED-I-infant-cry-response-dyad-simulator/src
+```
 
-Kahl, P. (2025). _The newborn’s first cry as epistemic claim and foundation of psychological development: Attachment, autonomy, and resilience_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development
+## License
 
-## Publisher & Licence
+- Code is released under the MIT License (see LICENSE).
+- [Accompanying paper and documentation](https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development) are released under Creative Commons BY-NC-ND 4.0.
 
-First published in London by Lex et Ratio Ltd, 2 October 2025.
+You may freely use, adapt, and extend the code for research and educational purposes. Please cite appropriately.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification.\
-Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
+
+## Citation
+
+Please cite the paper and optionally the repository release tag:
+
+- Kahl, P. (2025). _The newborn’s first cry as epistemic claim and foundation of psychological development: Attachment, autonomy, and resilience_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development
+
+and
+
+- Kahl, P. (2025). KMED-I (Infancy): Cry–Response Dyad Simulator (Version v1.0-preprint) [Computer software]. Lex et Ratio Ltd. GitHub. https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator/releases/tag/v1.0-preprint
