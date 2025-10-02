@@ -14,9 +14,9 @@ This paper develops a developmental–epistemic account of the newborn’s first
 
 cognitive dissonance, newborn crying, infancy, epistemic event, psychological development, fiduciary scaffolding, epistemic clientelism, attachment theory, developmental psychology, resilience, recognition, silencing, autonomy, dependence, epistemic trust, dissonance tolerance, KMED, computational modelling, psychiatry, clinical psychology
 
-## KMED-I (Infant) Computational Modelling
+## KMED-I (Infancy) — Cry–Response Dyad Simulator Resources
 
-KMED-I simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-I-infant-simulation-epistemic-psychology .
+KMED-I simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator .
 
 ## Working Paper Status
 
