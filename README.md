@@ -16,7 +16,7 @@ cognitive dissonance, newborn crying, infancy, epistemic event, psychological de
 
 ## KMED-I (Infant) Computational Modelling
 
-KMED-I simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-I .
+KMED-I simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-I-infant-simulation-epistemic-psychology .
 
 ## Working Paper Status
 
