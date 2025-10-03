@@ -2,7 +2,7 @@
 
 ### Attachment, Autonomy, and Resilience
 
-by Peter Kahl, 3 October 2025
+by Peter Kahl, 4 October 2025
 
 ![A stylised illustration of a mother holding her smiling infant, rendered in warm orange tones. The image symbolises the newborn’s cry and caregiver recognition as the foundational exchange of epistemic life, where comfort and care scaffold resilience and autonomy.](https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development/blob/main/mum_baby.jpg?raw=true)
 
@@ -32,7 +32,7 @@ KMED-I simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-I
 
 ## Publisher & Licence
 
-First published in London by Lex et Ratio Ltd, 3 October 2025.
+First published in London by Lex et Ratio Ltd, 4 October 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
