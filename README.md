@@ -8,7 +8,7 @@ by Peter Kahl, 3 October 2025
 
 ## Abstract
 
-This paper develops a developmental–epistemic account of the newborn’s first cry as the primordial epistemic event and the foundation of psychological development. Far from being a reflex, crying is conceptualised as the embodied registration of contradiction—helplessness, need, and finitude voiced into the world. The caregiver’s response establishes the first fiduciary scaffold: recognition and comfort dignify contradiction and script resilience, whereas neglect, inconsistency, or silencing rehearse epistemic clientelism. To formalise this dynamic, the _Kahl Model of Epistemic Dissonance_ (KMED) is extended into the infant–caregiver dyad (KMED-I) and implemented in Python-based simulations. The models show how distinct caregiving policies produce divergent trajectories of epistemic autonomy (EA), dissonance tolerance (DT), and dependence (D). These outcomes map onto classical attachment styles, reinterpreted here as epistemic lessons: secure attachment scripts resilience, avoidant scripts silence, ambivalent scripts hyperactivation, and disorganised scripts incoherence. In this way, the paper reframes dissonance not as a cognitive bias but as the grammar of epistemic life, inscribing durable scripts that extend from the cradle to intimate, institutional, and political contexts. The argument has implications for developmental psychology, psychiatry, attachment theory, and fiduciary ethics, advancing the foundations of epistemic psychology.
+This paper develops a foundational theoretical account of the newborn’s first cry as the earliest epistemic act and the crucible of psychological development. Rather than treating crying as reflex, it is reframed as an epistemic event: the embodied registration of contradiction at the threshold of life. The caregiver’s response constitutes the first fiduciary scaffold. Recognition transforms dissonance into resilience, while neglect, silencing, or inconsistency rehearse the logic of epistemic clientelism. To formalise these dynamics, the _Kahl Model of Epistemic Dissonance_ (KMED) is extended into an infant–caregiver setting and implemented in Python-based simulations. These simulations function not as empirical data analysis but as conceptual scaffolding—stylised formalisations that make explicit how caregiving policies generate divergent developmental trajectories of epistemic autonomy, dissonance tolerance, and dependence. In so doing, the paper establishes infancy as the crucible of epistemic life, reframes attachment as epistemic trust, and repositions psychology and psychiatry as fiduciary sciences of recognition and contradiction.
 
 ## Keywords
 
@@ -20,7 +20,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 
 ## Download
 
-- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development/master/Kahl_P_Newborn_Crying_as_the_First_Epistemic_Claim_2025-10-02.pdf)
+- [Download here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development/master/Kahl_P_Newborn_Crying_as_the_First_Epistemic_Claim_2025-10-03.pdf)
 
 ## Cite this work
 
