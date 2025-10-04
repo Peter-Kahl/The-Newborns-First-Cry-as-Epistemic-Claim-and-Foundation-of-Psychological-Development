@@ -24,7 +24,7 @@ This is a provisional draft circulated for discussion; readers are welcome to ci
 
 ## Cite this work
 
-Kahl, P. (2025). _The newborn’s first cry as epistemic claim and foundation of psychological development: Attachment, autonomy, and resilience_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development
+Kahl, P. (2025). _The newborn’s first cry as epistemic claim and foundation of psychological development: Attachment, autonomy, and resilience_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development DOI: https://doi.org/10.5281/zenodo.17265357
 
 ## KMED-I (Infancy) — Cry–Response Dyad Simulator Resources
 
