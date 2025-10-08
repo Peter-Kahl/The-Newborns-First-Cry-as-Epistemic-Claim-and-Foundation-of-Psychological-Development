@@ -4,7 +4,7 @@
 
 by Peter Kahl, 4 October 2025
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17265357-blue.svg)](https://doi.org/10.5281/zenodo.17265357)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17265357.svg)](https://doi.org/10.5281/zenodo.17265357)
 
 ![A stylised illustration of a mother holding her smiling infant, rendered in warm orange tones. The image symbolises the newborn’s cry and caregiver recognition as the foundational exchange of epistemic life, where comfort and care scaffold resilience and autonomy.](https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development/blob/main/mum_baby.jpg?raw=true)
 
