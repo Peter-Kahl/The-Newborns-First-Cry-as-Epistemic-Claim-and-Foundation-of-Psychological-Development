@@ -4,7 +4,7 @@
 
 by Peter Kahl, 4 October 2025
 
-[![Generic badge](https://img.shields.io/badge/ORCID-0009-0003-1616-4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17265357.svg)](https://doi.org/10.5281/zenodo.17265357)
 
