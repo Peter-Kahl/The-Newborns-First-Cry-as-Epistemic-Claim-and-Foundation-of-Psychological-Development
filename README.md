@@ -34,7 +34,7 @@ KMED-I simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-I
 
 ## Publisher & Licence
 
-First published in London by Lex et Ratio Ltd, 4 October 2025.
+First published in London by Lex et Ratio Ltd, 2025-10-04.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
