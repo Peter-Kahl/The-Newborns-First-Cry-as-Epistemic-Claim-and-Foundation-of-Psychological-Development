@@ -2,6 +2,8 @@
 
 ### Attachment, Autonomy, and Resilience
 
+---
+
 by Peter Kahl, 2025-10-04
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17265357.svg)](https://doi.org/10.5281/zenodo.17265357) [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
@@ -15,10 +17,6 @@ This paper develops a foundational theoretical account of the newborn’s first 
 ## Keywords
 
 cognitive dissonance, newborn crying, infancy, epistemic psychology, fiduciary care, epistemic clientelism, attachment theory, developmental psychology, epistemic event, resilience, recognition, silencing, parental scaffolding, epistemic autonomy, dependence, dissonance tolerance, computational modelling, psychiatry, epistemic trust, clinical psychology, ontology of infancy
-
-## Working Paper Status
-
-This is a provisional draft circulated for discussion; readers are welcome to cite it, noting that revisions may follow in later versions.
 
 ## Download
 
@@ -36,6 +34,5 @@ KMED-I simulation resources are avaiable at https://github.com/Peter-Kahl/KMED-I
 
 First published in London by Lex et Ratio Ltd, 2025-10-04.
 
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
-You may share this work for non-commercial purposes with attribution and without modification.\
+© 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
 Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
